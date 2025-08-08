@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alien Weather Alert</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="rain_alerts">Rain Alerts</string>
+    <string name="temperature_alerts">Temperature Alerts</string>
+    <string name="wind_alerts">Wind Alerts</string>
+    <string name="monitoring_started">Weather monitoring started</string>
+    <string name="monitoring_stopped">Weather monitoring stopped</string>
+    <string name="select_alert_types">Select Alert Types:</string>
+    <string name="weather_service_running">Monitoring planetary weather conditions...</string>
+</resources>
